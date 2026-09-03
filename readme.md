@@ -1,7 +1,7 @@
 # Acode - Code Editor for Android
 
 <p align="center">
-  <img src='res/logo_1.png' width='250'>
+  <img src='res/logo_1.png' width=
 </p>
 
 [![](https://img.shields.io/endpoint?logo=telegram&label=Acode&style=flat&url=https%3A%2F%2Facode.app%2Fapi%2Ftelegram-members-count)](https://t.me/foxdebug_acode) [![](https://dcbadge.vercel.app/api/server/vVxVWYUAWD?style=flat)](https://discord.gg/vVxVWYUAWD)
@@ -59,16 +59,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions.
 
 ## • Developing a Plugin for Acode
 
-For comprehensive documentation on creating plugins for Acode Editor, visit the [repository](https://github.com/Acode-Foundation/acode-plugin).
+For comprehensive documentation on creating plugins for Acode Editor, visit the [repository](https://github.com/Acode-Foundation/acode
 
-For plugin development information, refer to: [Acode Plugin Documentation](https://docs.acode.app/)
+For plugin development information, refer to: [Acode Plugin Documentation](https://docs.acode
 
 ## Star History
 
-<a href="https://star-history.com/#Acode-Foundation/Acode&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Acode-Foundation/Acode&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Acode-Foundation/Acode&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Acode-Foundation/Acode&type=Date" />
- </picture>
-</a>
+<a href= srcset="https://api.star-history.com/svg?repos=Acode-Foundation/Acode&type=Date&them
+   <source media="(prefers-color-scheme: light) srcset="https://api.star-history.com/svge/Acode&type=Date
+   <img  src="https://api.star-history.com/svg foundation/Acode&type=Date
+ </picture
